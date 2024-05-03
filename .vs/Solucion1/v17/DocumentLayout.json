@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Solucion1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14B6DA8E-A66A-49F7-BB42-039A63646BDD}|CRUDJGA\\CRUDJGA.csproj|c:\\users\\user\\source\\repos\\solucion1\\crudjga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B6DA8E-A66A-49F7-BB42-039A63646BDD}|CRUDJGA\\CRUDJGA.csproj|solutionrelative:crudjga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B6DA8E-A66A-49F7-BB42-039A63646BDD}|CRUDJGA\\CRUDJGA.csproj|C:\\Users\\User\\source\\repos\\Solucion1\\crudjga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14B6DA8E-A66A-49F7-BB42-039A63646BDD}|CRUDJGA\\CRUDJGA.csproj|solutionrelative:crudjga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B6DA8E-A66A-49F7-BB42-039A63646BDD}|CRUDJGA\\CRUDJGA.csproj|C:\\Users\\User\\source\\repos\\Solucion1\\crudjga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B6DA8E-A66A-49F7-BB42-039A63646BDD}|CRUDJGA\\CRUDJGA.csproj|solutionrelative:crudjga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B6DA8E-A66A-49F7-BB42-039A63646BDD}|CRUDJGA\\CRUDJGA.csproj|C:\\Users\\User\\source\\repos\\Solucion1\\crudjga\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{14B6DA8E-A66A-49F7-BB42-039A63646BDD}|CRUDJGA\\CRUDJGA.csproj|solutionrelative:crudjga\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CRUDJGA||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 109,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Solucion1\\CRUDJGA\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUDJGA\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Solucion1\\CRUDJGA\\Form1.cs",
+              "RelativeToolTip": "CRUDJGA\\Form1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAUwIAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T05:30:43.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Solucion1\\CRUDJGA\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDJGA\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Solucion1\\CRUDJGA\\Program.cs",
+              "RelativeToolTip": "CRUDJGA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T02:55:17.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Solucion1\\CRUDJGA\\App.config",
+              "RelativeDocumentMoniker": "CRUDJGA\\App.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Solucion1\\CRUDJGA\\App.config",
+              "RelativeToolTip": "CRUDJGA\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-03T04:40:54.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRUDJGA",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Solucion1\\CRUDJGA\\CRUDJGA.csproj",
+              "RelativeDocumentMoniker": "CRUDJGA\\CRUDJGA.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Solucion1\\CRUDJGA\\CRUDJGA.csproj",
+              "RelativeToolTip": "CRUDJGA\\CRUDJGA.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-03T04:36:51.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Solucion1\\CRUDJGA\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUDJGA\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Solucion1\\CRUDJGA\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRUDJGA\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T02:55:00.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

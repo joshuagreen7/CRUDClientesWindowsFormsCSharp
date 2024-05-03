@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Solucion1\CRUDJGA\bin\Debug\CRUDJGA.exe.config
+C:\Users\User\source\repos\Solucion1\CRUDJGA\bin\Debug\CRUDJGA.exe
+C:\Users\User\source\repos\Solucion1\CRUDJGA\bin\Debug\CRUDJGA.pdb
+C:\Users\User\source\repos\Solucion1\CRUDJGA\obj\Debug\CRUDJGA.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Solucion1\CRUDJGA\obj\Debug\CRUDJGA.Form1.resources
+C:\Users\User\source\repos\Solucion1\CRUDJGA\obj\Debug\CRUDJGA.Properties.Resources.resources
+C:\Users\User\source\repos\Solucion1\CRUDJGA\obj\Debug\CRUDJGA.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Solucion1\CRUDJGA\obj\Debug\CRUDJGA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Solucion1\CRUDJGA\obj\Debug\CRUDJGA.exe
+C:\Users\User\source\repos\Solucion1\CRUDJGA\obj\Debug\CRUDJGA.pdb
